@@ -8,7 +8,7 @@ void make_words(char **wrds, char *str, int begin, int stop, int id);
  * make_words- makes a word and puts it into the array
  * @wrds: matrix of strings
  * @str: input string
- * @start: begining of word
+ * @begin: begining of word
  * @stop: end of word
  * @id: id of array
  */
